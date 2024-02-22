@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">rickandmortyapp</string>
+    <string name="error_message">Oops! something went wrong.</string>
+    <string name="label_back">Back</string>
+    <string name="default_episode_description">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s.</string>
+    <string name="work_in_progress">work in progress</string>
+</resources>
